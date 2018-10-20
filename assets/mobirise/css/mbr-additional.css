@@ -1766,16 +1766,26 @@ body {
 .cid-r5P5FRhoPt .dropdown-item:hover {
   color: #fc3d3d !important;
 }
-.cid-r70AiT7ONh {
+.cid-r70U8w9xGl {
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-color: #ffffff;
 }
-.cid-r70AiT7ONh H1 {
+.cid-r70U8w9xGl H1 {
   color: #fc1100;
   text-align: left;
 }
-.cid-r70AiT7ONh .mbr-text,
-.cid-r70AiT7ONh .mbr-section-btn {
-  color: #fc1100;
+.cid-r70UArXZJA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r70UArXZJA .mbr-text,
+.cid-r70UArXZJA blockquote {
+  color: #767676;
+}
+.cid-r70UArXZJA .mbr-text P {
+  color: #ffffff;
 }
 .cid-r70DzshzzN {
   padding-top: 0px;
