@@ -1779,7 +1779,7 @@ body {
 }
 .cid-r70DzshzzN {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r70DzshzzN h4 {
@@ -1817,6 +1817,7 @@ body {
 .cid-r70DzshzzN .card-title,
 .cid-r70DzshzzN .card-img {
   color: #fc1100;
+  text-align: right;
 }
 .cid-r70DzshzzN P {
   color: #ffffff;
