@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sien Goris 3BA",
-    "currentPage": "index.html",
+    "currentPage": "page14.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9062,12 +9062,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/collage-machelen.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collage-machelen-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1223.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1223-800x407.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<p>Luna<br>2018<br>aquarel op papier<br>25 x 25 cm</p>",
+                "caption": "",
                 "active": true
               }
             ]
