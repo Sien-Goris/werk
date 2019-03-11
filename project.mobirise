@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sien Goris 3BA",
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7096,19 +7096,6 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/kunstcritici1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kunstcritici1-800x571.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Rien en ik als kunstcritici<br>2018<br>olieverf op doek<br>100 x 140 cm<br>",
-                "active": true
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -7132,7 +7119,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Deinse Leie<br>2018<br>olieverf op doek<br>70 x ? cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -7158,19 +7145,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Charles<br>2018<br>olieverf op doek<br>40 x 60 cm",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/zelfportret-5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-5-800x900.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Zelfportret<br>2018<br>olieverf op hout<br>? x ? cm",
                 "active": true
               }
             ]
